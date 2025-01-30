@@ -1,6 +1,6 @@
-# CHATBOT2
+# CHATBOT-FLASK API
 
-# Course Recommendation API
+
 
 This repository contains a Flask-based RESTful API that recommends courses based on user queries. It uses web scraping, natural language embeddings, and the FAISS library to provide accurate and efficient recommendations.
 
