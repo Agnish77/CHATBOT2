@@ -23,7 +23,8 @@ This repository contains a Flask-based RESTful API that recommends courses based
 ### Clone the Repository
 
 
-git clone https://github.com/your-username/course-recommendation-api.git
+git clone https://github.com/Agnish77/CHATBOT2
+
 cd course-recommendation-api
 
 
